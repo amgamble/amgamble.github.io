@@ -1,8 +1,8 @@
-p {
-  font: 15px Verdana, sans-serif;
-  line-height: 1.6;
-}
 h1 {
   font: 24px Verdana, sans-serif;
+  line-height: 1.6;
+}
+p {
+  font: 15px Verdana, sans-serif;
   line-height: 1.6;
 }
